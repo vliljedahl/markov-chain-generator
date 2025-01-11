@@ -35,7 +35,6 @@ def readText(filename):
         return input_file.read()
 
 
-# Database class to 
 class Database():
     database = []
 
