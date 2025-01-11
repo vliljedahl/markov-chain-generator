@@ -44,6 +44,7 @@ class Database():
     def addEntry(self, entry: tuple):
         if len(entry) != 3:
             print('discarding entry, length not 3')
+            return
 
         self.database.append(entry)
 
