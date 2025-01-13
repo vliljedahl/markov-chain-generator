@@ -12,4 +12,3 @@ Currently the database is in-memory list with tuples of length of three.
     - Django, Flask, etc.
 - Utilize a real database
     - MongoDB, redis, etc.
-- 
